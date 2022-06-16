@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cookedpotato663 
  very much a newbie to coding
-- 👀 I’m interested in full stack web dev 
-- 🌱 I’m currently learning java, C#, javascript and sql
+- 👀 I’m interested in game engines
+- 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on (dont know yet)
 - 📫 How to reach me on cookedpotato663@gmail.com
 
